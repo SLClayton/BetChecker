@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Bet Checker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <color name="main_colour">#fffdb70d</color>
+    <color name="background_colour">#eef1f1</color>
+    <color name="foreground_colour">#ffffff</color>
+
+    <color name="main_text_colour">#ff000000</color>
+    <color name="back_colour">#ff71baee</color>
+    <color name="back_colour_pressed">#ff2796e5</color>
+    <color name="lay_colour">#fff8a8ba</color>
+    <color name="lay_colour_pressed">#fff793a9</color>
+
+    <color name="profit_colour">#ff018c09</color>
+    <color name="loss_colour">#ff8c0700</color>
+
+
+
+</resources>
